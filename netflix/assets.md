@@ -9,3 +9,9 @@ card = 'https://images.squarespace-cdn.com/content/v1/59232e19579fb3fa44a693c2/1
 trending = 'https://api.themoviedb.org/3/trending/all/week?api_key=%7BAPI_KEY_HERE%7D&language=en-US'
 
 imageUrl = https://image.tmdb.org/t/p/original
+
+originals ='https://api.themoviedb.org/3/discover/tv?api_key={API_KEY_HERE}&with_networks=213'
+
+action = 'https://api.themoviedb.org/3/discover/movie?api_key=%7BAPI_KEY_HERE%7D&with_genres=28'
+
+ComedyMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=35',
